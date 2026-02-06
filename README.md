@@ -1,2 +1,2 @@
-# NEXUS---Projeto-Academia---Apresenta-o
+# NEXUS-projeto-app
 Repositório Latex para apresentação do projeto da academia da Nexus em Aerodinâmica
